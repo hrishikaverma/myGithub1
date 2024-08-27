@@ -36,6 +36,12 @@ Task Breakdown:
    	- Create comprehensive documentation including project overview, code structure explanation,
      technical specifications (if applicable), user guide/manual.
 6.Testing:
-7.Deployment:
+7.Deployment
 8.Maintenance:
+
+OUTPUT:
+![todo list](https://github.com/user-attachments/assets/834bd74e-db21-4437-a709-5a1ec936cfae)
+
+
+
 
